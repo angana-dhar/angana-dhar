@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angana-dhar&label=Profile%20views&color=0e75b6&style=flat" alt="angana-dhar" /> </p>
 
-- 🌱 I’m currently learning **MYSQL**
+- 🌱 I’m currently learning **MYSQL ,Power Bi**
 
 - 💬 Ask me about **Python ,R**
 
