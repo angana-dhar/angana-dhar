@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python ,R**
 
-- 📫 How to reach me **anganadhar1710@gmail.com**
+- 📫 How to reach me **angana.dhar1710official@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E_ue92KCR-KlK58CVbTbE1Cbqi0tOG-U/view?usp=sharing](https://drive.google.com/file/d/1E_ue92KCR-KlK58CVbTbE1Cbqi0tOG-U/view?usp=sharing)
 
