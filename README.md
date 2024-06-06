@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MYSQL,Power Bi**
 
-- 💬 Ask me about **Python ,R**
+- 💬 Ask me about **Python ,R ,HTML ,CSS ,JavaScript**
 
 - 📫 How to reach me **angana.dhar1710official@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1E_ue92KCR-KlK58CVbTbE1Cbqi0tOG-U/view?usp=sharing](https://drive.google.com/file/d/1E_ue92KCR-KlK58CVbTbE1Cbqi0tOG-U/view?usp=sharing](https://drive.google.com/file/d/1uxPvHXnGBtYP0qQTQ6pFWjO_eGB3ewrK/view?usp=sharing)](https://drive.google.com/file/d/1uxPvHXnGBtYP0qQTQ6pFWjO_eGB3ewrK/view?usp=sharing)
+- 📄 Know about my experiences https://sites.google.com/view/angana-dhar1710-/home?authuser=0
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
