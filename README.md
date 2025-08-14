@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MYSQL,Power Bi**
 
-- 💬 Ask me about **Python ,R ,HTML ,CSS ,JavaScript**
+- 💬 Ask me about **Python ,R ,HTML ,CSS ,SQL**
 
 - 📫 How to reach me **angana.dhar1710official@gmail.com**
 
