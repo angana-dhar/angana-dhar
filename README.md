@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **AI,Machine Learning**
 
-- 💬 Ask me about **Python ,R ,HTML ,CSS ,SQL**
+- 💬 Ask me about **Python ,R ,LLM ,RAG (Retrieval-Augmented Generation), Deep Learning ,SQL,Feature Engineering,MATLAB**
 
-- 📫 How to reach me **angana.dhar1710official@gmail.com**
+- 📫 How to reach me **dharangana1710official@gmail.com**
 
 - 📄 Know about my experiences https://sites.google.com/view/angana-dhar1710-/home?authuser=0
 
